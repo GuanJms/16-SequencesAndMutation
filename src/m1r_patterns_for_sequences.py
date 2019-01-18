@@ -13,11 +13,11 @@ Of course, these are not the only patterns, and some problems require
 combining these patterns, but this is a good base upon which to build.
 
 Authors: David Mutchler, Valerie Galluzzi, Mark Hays, Amanda Stouder,
-         their colleagues and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+         their colleagues and Shengjun Guan.
+"""  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 # ----------------------------------------------------------------------
-# TODO: 2. SKIM the program below and RUN it.
+# DONE: 2. SKIM the program below and RUN it.
 #
 #   Then look more closely at the CODE for:
 #     -- find_example1
